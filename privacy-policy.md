@@ -2,20 +2,24 @@ Privacy Policy
 
 This privacy policy explains how our app collects, uses, and protects user data.
 
-Information We Collect
+Information We Collect & Store:
 Our app collects the following information from users:
 Personal information (such as name, email address, phone number) when users sign up for an account or submit a service request
 Location data to match users with nearby service providers
+
+Information we collect but do not store:
 Payment information when users make transactions through our app
-How We Use Your Information
+
+How We Use Your Information:
 We use user information for the following purposes:
 To match users with service providers and facilitate transactions
 To communicate with users about their service requests and transactions
 To improve our app and services
-How We Protect Your Information
+
+How We Protect Your Information:
 We take reasonable measures to protect user information from unauthorized access, use, or disclosure. We use secure servers and encrypt user data in transit. However, we cannot guarantee the security of user information transmitted through our app.
 
-Sharing Your Information
+Sharing Your Information:
 We may share user information with service providers to facilitate transactions. We may also share user information with our partners or affiliates for marketing purposes, but only if users have given their consent.
 
 Third-Party Services
