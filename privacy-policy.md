@@ -1,3 +1,6 @@
+Organization: Moguls 
+Product/Application name : AutoComforts Client
+
 Privacy Policy
 
 This privacy policy explains how our app collects, uses, and protects user data.
